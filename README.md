@@ -4,6 +4,6 @@
 
 ## Dockerfile
 
-This repository contain the image used to build the [https://hub.docker.com/r/seuf/sonerezh/](seuf/sonerezh) image.
+This repository contain the image used to build the [seuf/sonerezh](https://hub.docker.com/r/seuf/sonerezh/) image.
 It is based on Alpine Linux.
 
